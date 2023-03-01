@@ -170,3 +170,7 @@
 .opacity-0 {
     opacity: 0 !important;
 }
+
+.imageborder{
+    border-radius: 40px;
+}
