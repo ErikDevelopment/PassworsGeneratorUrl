@@ -82,7 +82,7 @@ body {
     box-shadow: var(--num-shadow);
     background: var(--num-background);
 }
-#add, #eql, #sub, #mul, #div {
+#add, #eql, #sub, #mul, #div #button {
     background: var(--eql-background);
     box-shadow: var(--eql-shadow);
     color: #FFF;
