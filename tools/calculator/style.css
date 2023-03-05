@@ -44,7 +44,7 @@ body {
 .calculator {
     position: relative;
     width: 550px;
-    height: 530px;
+    height: 630px;
     background-color: var(--calc-background);
     border-radius: 35px;
     box-shadow: var(--calc-shadow);
@@ -71,7 +71,7 @@ body {
     grid-gap: 10px;
     padding: 12px;
 }
-.buttons div {
+.buttons button {
     user-select: none;
     cursor: pointer;
     height: 49px;
@@ -81,9 +81,6 @@ body {
     border-radius: 17px;
     box-shadow: var(--num-shadow);
     background: var(--num-background);
-}
-#zero {
-    grid-column: 1 / 3;
 }
 #add, #eql, #sub, #mul, #div {
     background: var(--eql-background);
