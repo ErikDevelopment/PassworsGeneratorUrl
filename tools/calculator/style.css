@@ -71,7 +71,7 @@ body {
     grid-gap: 10px;
     padding: 12px;
 }
-.buttons butt2n {
+.buttons button {
     user-select: none;
     cursor: pointer;
     height: 49px;
